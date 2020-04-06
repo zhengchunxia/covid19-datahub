@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{PMoX:function(e,n,t){"use strict";t.r(n),t.d(n,"ArticlePageCore",(function(){return o}));var a=t("q1tI"),r=t.n(a),c=t("7oih"),o=function(){return r.a.createElement("div",null,r.a.createElement("p",null,"qapage"))},u=Object(c.b)(o);n.default=u}}]);
+//# sourceMappingURL=component---src-templates-qa-page-js-44094a2ce18b5cafc6a1.js.map
